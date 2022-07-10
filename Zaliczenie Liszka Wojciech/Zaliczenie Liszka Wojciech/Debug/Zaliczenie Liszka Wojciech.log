@@ -1,0 +1,6 @@
+﻿  Samochod.cpp
+  Zaliczenie Liszka Wojciech.cpp
+C:\Users\w65495\Desktop\Zaliczenie Wojciech Liszka\Zaliczenie Liszka Wojciech\Zaliczenie Liszka Wojciech\Zaliczenie Liszka Wojciech.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\w65495\Desktop\Zaliczenie Wojciech Liszka\Zaliczenie Liszka Wojciech\Zaliczenie Liszka Wojciech\Zaliczenie Liszka Wojciech.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Zaliczenie Liszka Wojciech.vcxproj -> C:\Users\w65495\Desktop\Zaliczenie Wojciech Liszka\Zaliczenie Liszka Wojciech\Debug\Zaliczenie Liszka Wojciech.exe
